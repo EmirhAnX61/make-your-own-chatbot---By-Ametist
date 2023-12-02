@@ -15,3 +15,4 @@ some 1.1 features:
 
 I don't know if the program works on Linux, but it probably will.
 
+discord server:https://discord.gg/RkavDpsFBA
